@@ -41,3 +41,12 @@ https://docs.microsoft.com/de-de/dotnet/core/tutorials/
 https://docs.microsoft.com/de-de/dotnet/core/porting/
 
 https://docs.microsoft.com/de-de/aspnet/core/getting-started
+
+## Erste Schritte mit .NET Core unter Windows/Linux/Mac OS unter Verwendung der Befehlszeile
+
+https://docs.microsoft.com/de-de/dotnet/core/tutorials/using-with-xplat-cli
+
+## Organisieren und Testen von Projekten mit der .NET Core-Befehlszeile
+
+https://docs.microsoft.com/de-de/dotnet/core/tutorials/testing-with-cli
+
