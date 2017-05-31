@@ -42,6 +42,8 @@ https://docs.microsoft.com/de-de/dotnet/core/porting/
 
 https://docs.microsoft.com/de-de/aspnet/core/getting-started
 
+https://docs.microsoft.com/de-de/dotnet/standard/library
+
 ## Willkommen bei .NET
 
 https://docs.microsoft.com/de-de/dotnet/welcome
