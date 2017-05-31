@@ -11,21 +11,8 @@ Build.sh
 
 You need a build script to the root of our repository for Travis CI to execute. It is quite simple.
 
-#!/usr/bin/env bash
-dotnet restore && dotnet build
-
 You can add additional steps to the build.sh to run tests, but this is the simplest command you need.
 .travis.yml
-
-The .travis.yml is used by the service to construct your build environment. Add this to the root of your repository.
-
-language: csharp
-dist: trusty
-sudo: required
-mono: none
-dotnet: 1.0.1
-script:
-  - ./build.sh --quiet verify
 
 We do a few things in the configuration file:
 
