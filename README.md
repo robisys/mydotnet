@@ -29,3 +29,8 @@ Conclusion
 After adding the files, you can follow this basic tutorial to setting up your project. If everything goes right, you should have a successful build on Travis CI. It really takes very little effort and will help your contributors know if they broke the application.
 
 https://docs.microsoft.com/en-us/dotnet/core/index
+
+https://docs.microsoft.com/de-de/dotnet/
+
+https://www.microsoft.com/net
+
