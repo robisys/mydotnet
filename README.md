@@ -54,3 +54,9 @@ https://docs.microsoft.com/de-de/dotnet/core/tutorials/using-with-xplat-cli
 
 https://docs.microsoft.com/de-de/dotnet/core/tutorials/testing-with-cli
 
+Cross platform .NET development!
+
+## OmniSharp 
+is a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice
+
+http://www.omnisharp.net/
