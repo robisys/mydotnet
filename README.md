@@ -1,6 +1,6 @@
 # mydotnet
 
-https://rimdev.io/building-net-core-on-travis-ci/
+[copy from](https://rimdev.io/building-net-core-on-travis-ci/)
 
 
 
