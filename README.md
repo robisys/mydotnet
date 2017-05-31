@@ -36,4 +36,8 @@ https://www.microsoft.com/net
 
 https://docs.microsoft.com/de-de/dotnet/core/
 
+https://docs.microsoft.com/de-de/dotnet/core/tutorials/
 
+https://docs.microsoft.com/de-de/dotnet/core/porting/
+
+https://docs.microsoft.com/de-de/aspnet/core/getting-started
