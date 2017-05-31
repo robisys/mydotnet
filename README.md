@@ -34,3 +34,6 @@ https://docs.microsoft.com/de-de/dotnet/
 
 https://www.microsoft.com/net
 
+https://docs.microsoft.com/de-de/dotnet/core/
+
+
