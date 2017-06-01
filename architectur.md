@@ -1,4 +1,4 @@
-
+[kopiert von](https://docs.microsoft.com/de-de/dotnet/core/tools/cli-msbuild-architecture)
 
 In diesem Dokument werden die allgemeinen Änderungen beschrieben, die der Wechsel von project.json zu MSBuild und zum .csproj-Projektsystem mit sich bringt. Erläutert wird die neue Weise, in der Tools in Schichten angeordnet sind, welche neuen Elemente verfügbar sind und wo sie sich im Gesamtbild einordnen. Nach der Lektüre dieses Artikels sollten Sie alle Elemente besser verstehen, die die .NET Core-Tools nach dem Wechsel zu MSBuild und .csproj bilden.
 Abkehr von „project.json“
