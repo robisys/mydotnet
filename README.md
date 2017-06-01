@@ -44,6 +44,9 @@ https://docs.microsoft.com/de-de/aspnet/core/getting-started
 
 https://docs.microsoft.com/de-de/dotnet/standard/library
 
+## dist.nuget.org
+
+https://dist.nuget.org/index.html
 ## Willkommen bei .NET
 
 https://docs.microsoft.com/de-de/dotnet/welcome
