@@ -102,3 +102,5 @@ https://www.microsoft.com/net/learn/apps/web
 https://docs.microsoft.com/de-de/dotnet/core/
 
 https://docs.microsoft.com/de-de/dotnet/samples-and-tutorials/
+
+https://github.com/dotnet/docs/tree/master/samples/core/console-apps
