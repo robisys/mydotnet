@@ -99,3 +99,4 @@ Get Visual Studio Get Visual Studio Code Get .NET Core CLI
 
 https://www.microsoft.com/net/learn/apps/web
 
+https://docs.microsoft.com/de-de/dotnet/core/
