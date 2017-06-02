@@ -84,3 +84,18 @@ JetBrains Rider is a cross-platform .NET IDE built using IntelliJ and ReSharper 
 
 https://www.microsoft.com/net/tutorials/csharp/getting-started/types-variables
 -------------
+
+ASP.NET Core
+
+Build web applications that run on Windows, Linux, and macOS using HTML, CSS, and JavaScript.
+
+You can also create Web APIs and mobile sites, use real-time technologies like Web Sockets, and more.
+
+Learn more
+
+Visual Studio Code and the .NET Core CLI can be used to develop on Linux, macOS, or Windows. If you're developing on Windows, we recommend Visual Studio.
+
+Get Visual Studio Get Visual Studio Code Get .NET Core CLI
+
+https://www.microsoft.com/net/learn/apps/web
+
