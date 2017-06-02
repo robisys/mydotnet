@@ -82,5 +82,5 @@ Learn Download
 JetBrains Rider is a cross-platform .NET IDE built using IntelliJ and ReSharper technology. It offers support for .NET and .NET Core applications on all platforms.
 
 
-
+https://www.microsoft.com/net/tutorials/csharp/getting-started/types-variables
 -------------
