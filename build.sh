@@ -8,6 +8,6 @@ dotnet  test --help
 cd src/bsp1
 dotnet restore
 dotnet run
-cd src/bsp2
+cd ../bsp2
 dotnet restore
 dotnet run
