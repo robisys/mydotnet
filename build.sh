@@ -4,4 +4,6 @@
 dotnet  --info
 dotnet  new --help
 dotnet  test --help
-
+cd src/bsp1
+dotnet restore
+dotnet run
