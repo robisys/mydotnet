@@ -4,7 +4,10 @@
 dotnet  --info
 dotnet  new --help
 dotnet  test --help
-chmod +x ./src/bsp1/build.sh
-src/bsp1/build.sh
-
-
+# chmod +x ./src/bsp1/build.sh
+cd src/bsp1
+dotnet restore
+dotnet run
+cd src/bsp2
+dotnet restore
+dotnet run
