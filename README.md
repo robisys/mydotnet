@@ -67,3 +67,6 @@ Cross platform .NET development!
 is a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice
 
 http://www.omnisharp.net/
+
+https://github.com/mono/CppSharp
+
