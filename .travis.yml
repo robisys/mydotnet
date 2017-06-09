@@ -8,3 +8,6 @@ before_script:
 script:
   - ./build.sh --quiet verify
   
+after_script: # here's a build step block
+- echo "We can put normal shell commands here"
+- echo "more shell commands here"
