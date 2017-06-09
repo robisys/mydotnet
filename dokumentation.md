@@ -1,19 +1,13 @@
 [.NET Framework 4.6 und 4.5 - MSDN - Microsoft](https://msdn.microsoft.com/de-de/library/w0x726c2(v=vs.110).aspx)
 Die Dokumentation für .NET Framework enthält eine umfassende Klassenbibliothekreferenz, konzeptionelle Übersichten, schrittweise Anweisungen und ...
 
-.NET Framework-Versionen und -Abhängigkeiten - MSDN - Microsoft
-
-https://msdn.microsoft.com/de-de/library/bb822049(v=vs.110).aspx
+[.NET Framework-Versionen und -Abhängigkeiten - MSDN - Microsoft](https://msdn.microsoft.com/de-de/library/bb822049(v=vs.110).aspx)
 Veröffentlicht: Oktober 2016. Jede Version von .NET Framework enthält die CLR (Common Language Runtime) sowie die Basisklassenbibliotheken und andere ...
 
-Entwicklungshandbuch für .NET Framework - MSDN - Microsoft
-
-https://msdn.microsoft.com/de-de/library/hh156542(v=vs.110).aspx
+[Entwicklungshandbuch für .NET Framework - MSDN - Microsoft](https://msdn.microsoft.com/de-de/library/hh156542(v=vs.110).aspx)
 Grundlagen der .NET Framework-Anwendung. Bietet Informationen über grundlegende Appentwicklungsaufgaben, wie z. B. Programmieren mit Appdomänen ...
 
-.NET-Dokumentation | Microsoft Docs
-
-https://docs.microsoft.com/de-de/dotnet/
+[.NET-Dokumentation | Microsoft Docs](https://docs.microsoft.com/de-de/dotnet/)
 API-Referenz für .NET Core · API-Referenz für .NET Framework .NET-Dokumentation. Docs. Erste Schritte. Was ist .NET? Erste Schritte · Einführung in .NET.
 
 Übersicht über .NET Framework - MSDN - Microsoft
