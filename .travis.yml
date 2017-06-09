@@ -1,4 +1,6 @@
-language: csharp
+branches:
+  only:
+    - masterlanguage: csharp
 dist: trusty
 sudo: required
 mono: none
