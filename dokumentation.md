@@ -1,4 +1,4 @@
-[.NET  framework  deutsche dokumentation  Suche bei google ](https://www.google.de/search?q=.NET+++famework++deutsche+dokumentation&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=o-06WdebMLTVXumtmcgO)
+[.NET  framework  deutsche dokumentation  Suche bei google ](https://www.google.de/search?q=.NET+framework++deutsche+dokumentation&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=o-06WdebMLTVXumtmcgO)
 
 [.NET Framework 4.6 und 4.5 - MSDN - Microsoft](https://msdn.microsoft.com/de-de/library/w0x726c2(v=vs.110).aspx)
 Die Dokumentation für .NET Framework enthält eine umfassende Klassenbibliothekreferenz, konzeptionelle Übersichten, schrittweise Anweisungen und ...
