@@ -1,5 +1,4 @@
-[.NET Framework 4.6 und 4.5 - MSDN - Microsoft]
-(https://msdn.microsoft.com/de-de/library/w0x726c2(v=vs.110).aspx)
+[.NET Framework 4.6 und 4.5 - MSDN - Microsoft](https://msdn.microsoft.com/de-de/library/w0x726c2(v=vs.110).aspx)
 Die Dokumentation für .NET Framework enthält eine umfassende Klassenbibliothekreferenz, konzeptionelle Übersichten, schrittweise Anweisungen und ...
 
 .NET Framework-Versionen und -Abhängigkeiten - MSDN - Microsoft
